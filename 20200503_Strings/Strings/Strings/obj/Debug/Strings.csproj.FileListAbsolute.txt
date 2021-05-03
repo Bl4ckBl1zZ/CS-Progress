@@ -1,0 +1,6 @@
+C:\Users\David\Documents\GitHub\CS-Progress\20200503_Strings\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\David\Documents\GitHub\CS-Progress\20200503_Strings\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\David\Documents\GitHub\CS-Progress\20200503_Strings\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\David\Documents\GitHub\CS-Progress\20200503_Strings\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\CS-Progress\20200503_Strings\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\David\Documents\GitHub\CS-Progress\20200503_Strings\Strings\Strings\obj\Debug\Strings.pdb
