@@ -1,0 +1,12 @@
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/obj/Debug/netcoreapp3.1/20200502_Calculator.csprojAssemblyReference.cache
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/obj/Debug/netcoreapp3.1/20200502_Calculator.AssemblyInfoInputs.cache
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/obj/Debug/netcoreapp3.1/20200502_Calculator.AssemblyInfo.cs
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/obj/Debug/netcoreapp3.1/20200502_Calculator.csproj.CoreCompileInputs.cache
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/bin/Debug/netcoreapp3.1/20200502_Calculator.deps.json
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/bin/Debug/netcoreapp3.1/20200502_Calculator.runtimeconfig.json
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/bin/Debug/netcoreapp3.1/20200502_Calculator.runtimeconfig.dev.json
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/bin/Debug/netcoreapp3.1/20200502_Calculator.dll
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/bin/Debug/netcoreapp3.1/20200502_Calculator.pdb
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/obj/Debug/netcoreapp3.1/20200502_Calculator.dll
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/obj/Debug/netcoreapp3.1/20200502_Calculator.pdb
+/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/obj/Debug/netcoreapp3.1/20200502_Calculator.genruntimeconfig.cache
