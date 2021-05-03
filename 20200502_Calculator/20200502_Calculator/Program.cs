@@ -8,8 +8,8 @@ namespace _20200502_Calculator
         {
             int number1;
             int number2;
-            int operation;
-            int answer;
+            string operation;
+            float answer;
 
             Console.WriteLine("Welcome to my first Calculator!");
             Console.WriteLine("Please type in your first number!");
@@ -19,7 +19,7 @@ namespace _20200502_Calculator
             number2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Please type in one of the following operations: +, -, :, *.");
-            operation = Convert.ToInt32(Console.ReadLine());
+            operation = Convert.ToString(Console.ReadLine());
 
             switch (operation)
             {
@@ -44,7 +44,9 @@ namespace _20200502_Calculator
                     break;
             }
 
-            Console.WriteLine(number1() + " " + operation + " " + number2 + " = " + answer);
+            Console.WriteLine(number1.ToString() + " " + operation.ToString() + " " + number2.ToString() + " = " + answer.ToString());
+
+            Console.ReadKey();
 
         }
     }
