@@ -8,24 +8,30 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/davidfaber/.nuget/packages/": {}
+    "C:\\Users\\David\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/20200502_Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\CS-Progress\\20200502_Calculator\\20200502_Calculator\\20200502_Calculator.csproj",
       "projectName": "20200502_Calculator",
-      "projectPath": "/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/20200502_Calculator.csproj",
-      "packagesPath": "/Users/davidfaber/.nuget/packages/",
-      "outputPath": "/Users/davidfaber/Desktop/CS-Progress/20200502_Calculator/20200502_Calculator/obj/",
+      "projectPath": "C:\\Users\\David\\Documents\\GitHub\\CS-Progress\\20200502_Calculator\\20200502_Calculator\\20200502_Calculator.csproj",
+      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\David\\Documents\\GitHub\\CS-Progress\\20200502_Calculator\\20200502_Calculator\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/davidfaber/.config/NuGet/NuGet.Config"
+        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
