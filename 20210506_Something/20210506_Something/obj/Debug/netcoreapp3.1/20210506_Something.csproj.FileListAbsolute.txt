@@ -1,0 +1,12 @@
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/bin/Debug/netcoreapp3.1/20210506_Something.deps.json
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/bin/Debug/netcoreapp3.1/20210506_Something.runtimeconfig.json
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/bin/Debug/netcoreapp3.1/20210506_Something.runtimeconfig.dev.json
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/bin/Debug/netcoreapp3.1/20210506_Something.dll
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/bin/Debug/netcoreapp3.1/20210506_Something.pdb
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/obj/Debug/netcoreapp3.1/20210506_Something.csprojAssemblyReference.cache
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/obj/Debug/netcoreapp3.1/20210506_Something.AssemblyInfoInputs.cache
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/obj/Debug/netcoreapp3.1/20210506_Something.AssemblyInfo.cs
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/obj/Debug/netcoreapp3.1/20210506_Something.csproj.CoreCompileInputs.cache
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/obj/Debug/netcoreapp3.1/20210506_Something.dll
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/obj/Debug/netcoreapp3.1/20210506_Something.pdb
+/Users/davidfaber/Desktop/CS-Progress/20210506_Something/20210506_Something/obj/Debug/netcoreapp3.1/20210506_Something.genruntimeconfig.cache

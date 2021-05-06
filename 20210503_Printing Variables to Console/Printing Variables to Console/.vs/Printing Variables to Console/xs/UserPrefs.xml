@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{74BB606C-09A3-473C-A650-70AAE8C30FF1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Printing Variables to Console/Program.cs">
+    <Files>
+      <File FileName="Printing Variables to Console/Program.cs" Line="57" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Printing Variables to Console" expanded="True">
+            <Node name="Printing Variables to Console" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Printing_220Variables_220to_220Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
